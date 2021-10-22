@@ -3,9 +3,6 @@ For help, questions, corrections or feedback please contact: *awed2@cam.ac.uk*
 # Analysing the effects of genotype on cortical network development using graph theory
 Scripts are from my PhD work in the Neuronal Oscillations groups (Dept. of PDN, University of Cambridge) carried out under the supervision of Dr Susanna Mierau and Prof Stephen Eglen. Where other authors wrote or contributed to scripts, this is indicated at the top of the script.
 
-**Masters thesis available for download** [click here](https://drive.google.com/open?id=17y718mBRKhD5DLs6sTSDKnlBg-i8K1Gt)
-**PhD thesis and manuscripts to come.**
-
 **Poster presented at Cambridge Neuroscience conference (#ABC2019), September 2019** [click here](https://drive.google.com/file/d/1S1rNTnI17tioU4a_Gbh8fdOPPjm9pTQS/view?usp=sharing)
 
 **Poster presented at Federation European Neuroscience Societies (FENS) 2020 conference, July 2020** [click here](https://drive.google.com/file/d/1g455YSxA0gChoNSN2Uxrzi7-HaYh-XPg/view?usp=sharing)
