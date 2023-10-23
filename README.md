@@ -2,8 +2,6 @@ For help, questions, corrections or feedback please contact: *awed2@cam.ac.uk*
 
 # Analysing the effects of genotype on cortical network development using graph theory
 
-**Poster presented at Cambridge Neuroscience conference (#ABC2019), September 2019** [click here](https://drive.google.com/file/d/1S1rNTnI17tioU4a_Gbh8fdOPPjm9pTQS/view?usp=sharing)
-
 **Poster presented at Federation European Neuroscience Societies (FENS) 2020 conference, July 2020** [click here](https://drive.google.com/file/d/1g455YSxA0gChoNSN2Uxrzi7-HaYh-XPg/view?usp=sharing)
 
 ## Scripts found in this repository were ultimately used for: 
